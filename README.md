@@ -71,9 +71,9 @@ Passionate about Machine Learning, NLP, Deep Learning, and building impactful AI
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=duagarima23&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=duagarima23&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duagarima23&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duagarima23&layout=compact&theme=tokyonight"/>
 
 </p>
 
