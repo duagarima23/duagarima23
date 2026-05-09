@@ -5,7 +5,7 @@ AI/ML Engineer • Data Science Enthusiast • NLP & LLM Explorer
 </h3>
 
 <p align="center">
-Final-year Computer Science undergraduate specializing in Data Science at Bennett University.
+Final-year Computer Science undergraduate specializing in Data Science.
 Passionate about Machine Learning, NLP, Deep Learning, and building impactful AI applications.
 </p>
 
