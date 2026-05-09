@@ -145,6 +145,6 @@ Published & Presented at ICCSCE-2025
 
 ---
 
-# ⚡ Fun Fact
+# 🌱 Learning Journey
 
-I enjoy building beautiful AI-powered applications and turning ideas into intelligent systems 🚀
+Continuously exploring advanced concepts in AI Engineering, Generative AI, and scalable ML systems.
