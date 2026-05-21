@@ -42,9 +42,13 @@ Passionate about Machine Learning, NLP, Deep Learning, and building impactful AI
 # 🛠 Tech Stack
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,git,github,flask,fastapi,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,git,github,streamlit,flask,fastapi,vscode" />
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ### AI/ML
