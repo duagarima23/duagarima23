@@ -16,7 +16,6 @@ Passionate about Machine Learning, NLP, Deep Learning, and building impactful AI
 - 🎓 B.Tech CSE (Data Science) Student at Bennett University
 - 💡 Interested in AI Engineering, NLP, LLMs, and Generative AI
 - 🌱 Currently building AI-powered applications using Streamlit and LangChain
-- 🚀 Portfolio: https://garima-portfolio-tau.vercel.app/
 
 ---
 
@@ -32,7 +31,7 @@ Passionate about Machine Learning, NLP, Deep Learning, and building impactful AI
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://garima-portfolio-tau.vercel.app/">
+<a href="https://garimadua-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-00C7D4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
